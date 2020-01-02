@@ -1,2 +1,2 @@
-# High-level design and Low-level design
-This is the High-level design and Low-level design I wrote for Kesha adjustment software system. Welcome to criticize and correct.
+# 软件概要设计和详细设计
+这是我为科傻平差系统编写的概要设计和详细设计说明书，里面包括了对边界类，控制类和实体类的识别表格，画出了相应的类与类之间的关系图。欢迎大家前来批评和指正
